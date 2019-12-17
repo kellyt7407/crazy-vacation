@@ -4,7 +4,7 @@
 
 The purpose of this project is to illustrate how our knowledge of how to resolve emerge conflicts while working with a peer on the same respository and link different path files together.
 
-[Begin](../home.md)
+[Begin](home-page/home.md)
 
 [Drawing](https://docs.google.com/drawings/d/1vFtfJy29mCSIpp7jOJOMpLyySCq-xYoq5V-Xlw_hFoA/edit?usp=sharing)
 
