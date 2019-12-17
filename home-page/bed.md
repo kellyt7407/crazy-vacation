@@ -7,4 +7,4 @@ A man somehow unlocks your door, came in and closes the door again. He pulls out
 
 ## [Struggle to be free](struggle.md)  
   
-[Restart](crazy-vacation-readme/READMe.md)
+[Restart](../README.md)

@@ -7,4 +7,4 @@ While you were screaming for help you noticed a great white shark closing in.
 
 [Attack shark in the nose and eyes](attack.md)
 
-[Restart](crazy-vacation-readme/READMe.md)
+[Restart](../README.md)

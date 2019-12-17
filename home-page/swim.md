@@ -7,4 +7,4 @@ While swimming, you see an island and a boat but the boat is slightly farther.
 
 [Go to island](island.md)
 
-[Restart](crazy-vacation-readme/READMe.md)
+[Restart](../README.md)

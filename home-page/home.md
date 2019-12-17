@@ -6,4 +6,4 @@ You just won the lottery and decides to aboard a cruise ship for vacation. The s
 
 ## [Go for a walk](walk.md)
 
-[Restart](cd crazy-vacation-readme/READMe.md)
+[Restart](../README.md)

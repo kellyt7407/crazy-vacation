@@ -3,4 +3,4 @@
 ---
 The man thought you might spoil his plan so he fires the gun at you. Game over, you have successfully died.
 
-[Restart](crazy-vacation-readme/README.md)
+[Restart](../README.md)

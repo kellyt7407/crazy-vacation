@@ -3,4 +3,4 @@
 ---
 You ended up on a deserted island and dies shortly after.
 
-[Restart](crazy-vacation-readme/README.md)
+[Restart](../README.md)

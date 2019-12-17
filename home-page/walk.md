@@ -7,4 +7,4 @@ While you were at the dock, you were pushed off the ship by someone from behind.
 
 [Swim to nearby island](swim.md)
 
-[Restart](crazy-vacation-readme/READMe.md)
+[Restart](../README.md)
