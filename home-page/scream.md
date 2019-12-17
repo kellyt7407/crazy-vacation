@@ -7,4 +7,6 @@ While you were screaming for help you noticed a great white shark closing in.
 
 [Attack shark in the nose and eyes](attack.md)
 
+[Swim away as fast as you can](swim-away.md)
+
 [Restart](../README.md)
